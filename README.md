@@ -45,9 +45,7 @@ The easiest way to install these dependencies is by using **[Anaconda](https://w
    jupyter notebook
    ```
 
-3. **Open and explore the notebook:**
 
-   Navigate to `notebooks/olympics_analysis.ipynb` and start analyzing the data!
 
 ---
 
